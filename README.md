@@ -1,12 +1,28 @@
-# React + Vite
+# 🎉 GiffyVerse – App de Búsqueda de GIFs con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**GiffyVerse** es una aplicación web enfocada en buscar y mostrar GIFs animados a través de la API de Giphy. Está construida con **React** y organizada en componentes reutilizables, aplicando buenas prácticas modernas como custom hooks, manejo de estado y consumo de APIs externas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo en vivo
 
-## Expanding the ESLint configuration
+🔗 [Ver la app en Netlify](https://giffyverse.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎥 Demo en video
+
+https://github.com/user-attachments/assets/a7ec14aa-b36c-4871-b0d0-9e11909955ae
+
+
+## 🧠 Tecnologías y conceptos aplicados
+
+- ⚛️ React 18
+- 🎣 Custom Hooks
+- 📡 Fetch API (consumo de datos desde Giphy)
+- 🔄 Comunicación entre componentes con props
+- 💾 Manejo de estado con `useState` y `useEffect`
+- 💡 Validación de entradas y renderizado condicional
+- 💅 Estilos con clases CSS personalizadas
+- 🧩 Reutilización de componentes funcionales
+- 🌈 Estructura escalable y limpia
